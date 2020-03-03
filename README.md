@@ -7,12 +7,19 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run client:dev
+```
+
+Then run debug command for total.js
+
+```
+node debug.js
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+node release.js
 ```
 
 ### Lints and fixes files
