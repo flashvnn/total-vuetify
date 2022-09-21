@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "total.js": "^3.4.5",
     "vue": "^2.6.12",
-    "vuetify": "^2.3.10"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
